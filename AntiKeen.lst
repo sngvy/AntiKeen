@@ -1,4 +1,4 @@
-20251029004050
+20251101021100
 route add 94.102.49.153 mask 255.255.255.255 0.0.0.0 # anime
 route add 8.47.69.6 mask 255.255.255.255 0.0.0.0 # anime
 route add 104.21.95.189 mask 255.255.255.255 0.0.0.0 # anime
@@ -2148,6 +2148,7 @@ route add 173.194.28.0 mask 255.255.255.0 0.0.0.0 # youtube
 route add 173.194.138.0 mask 255.255.255.0 0.0.0.0 # youtube
 route add 173.194.183.0 mask 255.255.255.0 0.0.0.0 # youtube
 route add 212.1.249.0 mask 255.255.255.0 0.0.0.0 # youtube
+route add 216.239.32.0 mask 255.255.255.0 0.0.0.0 # youtube
 route add 130.255.77.28 mask 255.255.255.255 0.0.0.0 # ntc.party
 route add 179.43.163.0 mask 255.255.255.0 0.0.0.0 # hdrezka
 route add 88.208.31.0 mask 255.255.255.0 0.0.0.0 # porn
